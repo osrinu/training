@@ -1,0 +1,8 @@
+https://github.com/osrinu/training.git
+
+
+token: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
+
+git push https://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@github.com/osrinu/devopsbatch
+
+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
